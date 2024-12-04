@@ -1,2 +1,5 @@
 Receta canelones:
- -
+ -preparo pasta.
+ -carne picada
+ .sofrio la carne
+ relleno los canelones
